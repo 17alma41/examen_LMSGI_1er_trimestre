@@ -2,22 +2,12 @@
 
 1º de DAM en ESCAV Granada
 
-Nombre:
+Nombre: Álvaro
 
-Fecha:
+Fecha: Román Bermúdez
 
-## Inicio
+## Documentación
 
-Para empezar, crea un fork de este repositorio, clónalo en tu ordenador y abre el proyecto con VSCode.
+En esta página tenemos una división de tres secciones con colores distintos claramente visible, en la **primera sección** tenemos un título en el centro, luego en la **segunda sección** tenemos un título y una foto con su correspondiente subtítulo y en la tercera y **última sección** tenemos un botón que su función consiste en cambiar el párrafo de arriba cada vez que se pulsa y se reinicia cada vez que llegas al final.
 
-Edita este fichero README.md con tu nombre y la fecha de hoy, una vez hagas un commit inicial, estas listo para empezar!
-
-El examen está dividido en 3 partes, cada una de ellas en una carpeta diferente:
-
-- `00_teoria`: Varias preguntas de teoría.
-- `01_practica`: Ejercicio con html+js.
-- `02_docs`: Documentación del ejercicio realizado.
-
-Es importante que realizes primero la parte de teoría, aunque las partes de práctica y documentación se pueden realizar como quieras.
-
-Cada directorio tiene instrucciones en su interior, léelas con atención, y si tienes alguna duda, preguntame!
+[Enlace a CODEPEN](https://codepen.io/17alma41/pen/abMoeyV)
